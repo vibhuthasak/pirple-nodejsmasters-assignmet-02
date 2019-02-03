@@ -1,0 +1,20 @@
+[{
+  "id": 1,
+  "name": "Devilled Chicken",
+  "price": 15
+},
+{
+  "id": 2,
+  "name": "Cheese Lovers",
+  "price": 14
+},
+{
+  "id": 3,
+  "name": "Hot Garlic Prawns",
+  "price": 19
+},
+{
+  "id": 4,
+  "name": "Devilled Beef",
+  "price": 13
+}]
