@@ -6,7 +6,8 @@ var environments = {};
 environments.staging = {
   'port': 3000,
   'envName': 'staging',
-  'hashingSecret' : 'thisIsMySecret'
+  'hashingSecret' : 'thisIsMySecret',
+  'stripeSkey': 'sk_test_4eC39HqLyjWDarjtT1zdp7dc'
 };
 
 environments.production = {
